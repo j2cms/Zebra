@@ -34,7 +34,6 @@ import com.dianping.zebra.log.Logger;
 import com.dianping.zebra.log.LoggerFactory;
 
 import com.dianping.cat.Cat;
-import com.dianping.cat.CatConstants;
 import com.dianping.cat.message.Event;
 import com.dianping.cat.message.Message;
 import com.dianping.cat.message.Transaction;
